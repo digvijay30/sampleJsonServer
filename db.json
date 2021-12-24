@@ -1,5 +1,10 @@
 {
-    "details": [
+    "details": 
+      [
+        { "id": 1, "title": "json-server", "author": "typicode" }
+      ],
+      "ip_details":
+      [
         { "id": 1, "title": "json-server", "author": "typicode" }
       ]
 }
