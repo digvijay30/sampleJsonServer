@@ -1,10 +1,12 @@
 {
     "details": 
       [
-        { "id": 1, "title": "json-server", "author": "typicode" }
-      ],
-      "ip_details":
-      [
-        { "id": 1, "title": "json-server", "author": "typicode" }
+        { "id": 1, 
+          "title": "json-server", 
+          "date": "2021-12-07",
+          "like_ip":
+          {
+              "132.154.115.77":1
+        } }
       ]
 }
